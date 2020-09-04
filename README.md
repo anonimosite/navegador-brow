@@ -1,2 +1,2 @@
 
-na
+exemplos    aplicaçes ulteis
